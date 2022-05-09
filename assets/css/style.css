@@ -211,6 +211,7 @@ section {
 }
 
 .step-info {
+    flex: 2 70%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
